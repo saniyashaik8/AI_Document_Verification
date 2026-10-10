@@ -14,3 +14,4 @@ validation.py - validates document
 report_generation.py - makes report
 input_documents - input images
 output_reports - output csv
+### Note: Create 3 empty folders locally - input_documents, output_reports, processed_images (GitHub doesn't show empty folders)
